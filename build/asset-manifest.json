@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e089bbcf.css",
-    "main.js": "/static/js/main.5c7b50fd.js",
-    "static/media/book1.jpg": "/static/media/book1.a3128a31f9760d4637d2.jpg",
-    "static/media/book2.jpg": "/static/media/book2.315dfa4df776d010b27d.jpg",
-    "index.html": "/index.html",
-    "main.e089bbcf.css.map": "/static/css/main.e089bbcf.css.map",
-    "main.5c7b50fd.js.map": "/static/js/main.5c7b50fd.js.map"
+    "main.css": "/react-course-fundamental/static/css/main.e089bbcf.css",
+    "main.js": "/react-course-fundamental/static/js/main.7e3ded1d.js",
+    "static/media/book1.jpg": "/react-course-fundamental/static/media/book1.a3128a31f9760d4637d2.jpg",
+    "static/media/book2.jpg": "/react-course-fundamental/static/media/book2.315dfa4df776d010b27d.jpg",
+    "index.html": "/react-course-fundamental/index.html",
+    "main.e089bbcf.css.map": "/react-course-fundamental/static/css/main.e089bbcf.css.map",
+    "main.7e3ded1d.js.map": "/react-course-fundamental/static/js/main.7e3ded1d.js.map"
   },
   "entrypoints": [
     "static/css/main.e089bbcf.css",
-    "static/js/main.5c7b50fd.js"
+    "static/js/main.7e3ded1d.js"
   ]
 }
